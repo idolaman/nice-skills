@@ -1,0 +1,26 @@
+{
+  "name": "nice-skills",
+  "version": "1.0.0",
+  "description": "Visual verification tool for Claude Code - record screen while automating browser and API testing",
+  "author": {
+    "name": "Nice Skills",
+    "email": "contact@example.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "verification",
+    "screen-recording",
+    "browser-automation",
+    "playwright",
+    "postman",
+    "testing"
+  ],
+  "components": {
+    "skills": ["verify"],
+    "mcp": true
+  },
+  "requirements": {
+    "platform": ["darwin"],
+    "node": ">=18.0.0"
+  }
+}

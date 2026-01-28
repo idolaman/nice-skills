@@ -1,0 +1,18 @@
+{
+  "name": "nice-skills-marketplace",
+  "owner": {
+    "name": "Nice Skills",
+    "email": "contact@example.com"
+  },
+  "metadata": {
+    "description": "Visual verification tools for Claude Code",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "nice-skills",
+      "source": "./",
+      "description": "Visual verification - record screen while automating browser and API testing"
+    }
+  ]
+}
